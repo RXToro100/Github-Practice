@@ -25,7 +25,7 @@ body{
     padding: 5px;
     background-color: lightgray;
     text-align: center;
-    background-image: url("toro.jpeg");
+    background-image: url("images/toro.jpeg");
     background-size: cover;
 }
 nav{position:sticky;
